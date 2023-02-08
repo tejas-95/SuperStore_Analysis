@@ -3,7 +3,7 @@
 Superstore is a sample sales data for creating the visualization in tableau. It consist the sales data of different categories and sub-categories for the states in USA. Interactive dashboard with actions and filters is being created to analyse the sales and other metrics like profit , profit ratio, quantity etc. For better visualization dyanmic charts have been created to show the relationship between different entities. 
 <br>
 <br>
-<p align="center"><a href="https://www.tableau.com/"><img src=https://forthebadge.com/images/badges/built-with-love.svg><img src=https://user-images.githubusercontent.com/106439762/178422441-0ad26a02-d79f-4142-937f-461dcea6d08e.svg><img src=https://user-images.githubusercontent.com/106439762/178422909-f51e0b4a-6358-4488-926f-32fd59e4ca54.svg></a></p>
+
 
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
